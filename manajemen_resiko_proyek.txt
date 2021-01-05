@@ -1,1 +1,35 @@
+Manajemen Resiko Proyek 
+-> Proses sistematis untuk merencanakan,mendentifikasi,menganalisis dan merespon resiko proyek. Tujuannya untuk meningkatkan peluang dan dampak peristiwa positif dan mengurangi peluang dan dampak peristiwa yang merugikan proyek
 
+Jenis-jenis Resiko 
+Menurut IRM (2002),ada setidaknya 4 jenis resiko yang selama ini sudah dikenal orang yakni:
+
+-> Resiko Operasional, yakni resiko yang berhubungan dengan operasional organisasi, antara lain misalnya resiko yang mencangkup sistem organisasi, proses kerja, teknologi dan sumber daya manusia.
+
+-> Resiko Finansial, yakni resiko yang berdampak pada kinerja keuangan organisasi seperti kejadian resiko akibat dari fluktuasi mata uang, tingkat suku bunga termasuk resiko pemeberian kredit, likuiditas da kondisi pasar.
+
+-> Hazard Risk, yaitu resiko yang terkait dengan kecelakaan fisik seperti kerusakn karena kebakaran,gempa bumi, ancaman fisik dll
+
+-> Resiko Strategi, yaitu resiko yang ada hubungannya dengan strategi perusahaan politik,ekonomi,hukum. Resiko ini juga terkait dengan reputasi kepimpinan organisasi dan perubahan selera pelanggan
+
+Tujuan Manajemen Resiko yang utama adalah mencegah atau meminimisai pengaruh yang tidak baik akibat kejadian yang tidak terduga melalui penghindaran resiko atau persiapan rencana kontingen yang berkaitan dengan resiko tersebut.
+
+Ada tiga hal yang perlu diperhatikan dalam manajemen resiko proyek yakni :
+
+1. Identifikasi, analisis dan penilaian resiko di awal proyek secara sistematis serta mengembangkan rencana untuk mengantisipasi resiko.
+2. Mengalokasikan tanggungjawab kepada pihak yang paling sesuai untuk mengelola resiko
+3. Memastikan bahwa biaya penanganan resiko adalah cukup kecil dibanding nilai proyek. Artinya bahwa biaya yang diperlukan untuk mengurangi dampak negatif dari suatu resiko relatif lebih rendah atau sama dengan besaran manfaat dari terhidanrnya/berkurangnya resiko tersebut
+
+Pengambilan keputusan secara umum bisa masuk ke dalam tiga kategori, yaitu
+
+1. Pengambilan keputusan dalam kondisi pasti. Yang dimaksud di sini adalah bahwa dalam kondisi pasti, artinya semua informasi tentang suatu peristiwa dapat ditentukan dengan pasti sehingga hasil setiap keputusan dapat diketahui dengan pasti pula. Perbandingan dari berbagai alternatif keputusan dapat dilakukan secara langsung karena semua informasi terkait alternatif keputusan dapat diketahui dengan pasti.
+2. Pengambilan keputusan di bawah risiko. Artinya bahwa bahwa keputusan diambil dengan kondisi tersedianya informasi yang pasti tentang kemungkinan dan dampak sehingga nilai harapan dapat diketahui.
+3. Pengambilan keputusan dalam ketidakpastian. Artinya keputusan diambil dengan kondisi dimana informasi tentang kemungkinan dan dampak tidak dapat diperoleh sehingga orang tidak dapat memperkirakan apapun tntang kemungkinan-keumngkinan.
+
+Proses Manajemen Resiko 
+
+1. Perencanaan Manajemen Resiko
+2. Identifikasi Resiko
+3. Analisis Resiko kualitatif
+4. Analisis Resiko Kuantitatif
+5. Penanganan Resiko
